@@ -1,0 +1,13 @@
+body{
+    background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(20, 20, 105, 1) 52%, rgba(101, 67, 156, 1) 100%);
+}
+h1{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+}
+input#search {
+    float: inline-end;
+}
